@@ -1,1 +1,9 @@
-print(hi)
+print("hi")
+
+print("hello world")
+
+print("QWER7704")
+
+
+
+
